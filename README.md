@@ -1,3 +1,4 @@
+# selenium operates the browser
 ```
 from selenium import webdriver
 
