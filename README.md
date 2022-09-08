@@ -3,9 +3,9 @@
 from selenium import webdriver
 
 import time
-
+## start the browser
 driver = webdriver.Chrome()
-
+## open the Web page
 driver.get("https://www.google.com.au/")
 
 time.sleep(5)
