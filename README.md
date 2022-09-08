@@ -1,3 +1,4 @@
+```
 from selenium import webdriver
 
 import time
@@ -36,3 +37,4 @@ print(wins)
 
 url = driver.current_url
 print(url)
+```
